@@ -1,0 +1,37 @@
+@font-face {
+	font-family: 'CrimsonText-Regular';
+	font-style: normal;
+	font-weight: normal;
+	src: local('CrimsonText-Regular'),
+		url('fonts/CrimsonText-Regular.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'CrimsonText-Bold';
+	font-style: normal;
+	font-weight: bold;
+	src: local('CrimsonText-Bold'),
+		url('fonts/CrimsonText-Bold.ttf') format('ttf');
+}
+@font-face {
+	font-family: 'CrimsonText-SemiBold';
+	font-style: normal ;
+	font-weight: normal;
+	src: local('CrimsonText-SemiBold'),
+		url('fonts/CrimsonText-SemiBold.ttf') format('ttf');
+}
+
+input[type="text"] {
+	font-family: 'CrimsonText-Bold';
+	font-weight: bold
+
+
+}
+
+
+ body {background-color:palegreen;}
+    h1{color: blue;}
+    p{color:coral;}
+
+</style>
+
